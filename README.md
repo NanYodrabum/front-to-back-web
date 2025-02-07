@@ -179,3 +179,21 @@ function Layout() {
 
 export default Layout
 ```
+
+## Step 4 React-Hook-form
+https://www.react-hook-form.com/get-started
+```bash
+npm install react-hook-form
+```
+
+## Step 5 Lucide icon
+https://lucide.dev/guide/installation
+```bash
+npm install lucide-react
+```
+## Step 6 Validate with Zod
+https://www.npmjs.com/package/@hookform/resolvers
+```bash
+npm install @hookform/resolvers
+npm i zod
+```
